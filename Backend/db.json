@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Xbox",
+      "price": 1000,
+      "image": "https://m.media-amazon.com/images/I/41egY5DL%2BzL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA1%252C111%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+    },
+    {
+      "id": "2",
+      "name": "PlayStation",
+      "price": 1100,
+      "image": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw5d5891b0/images/product/0711719548898_B.jpg?sw=445&sh=445&sm=fit"
+    },
+    {
+      "id": "3",
+      "name": "Nintendo Switch",
+      "price": 900,
+      "image": "https://m.media-amazon.com/images/I/51Gz7IimgoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Apple MacBook Pro",
+      "price": 2000,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697230830200"
+    },
+    {
+      "id": "5",
+      "name": "Samsung 4K QLED TV",
+      "price": 1500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQ-up5jPmp0NTwuShzoQsYs1QHHcCGkBx6Q&s"
+    },
+    {
+      "id": "6",
+      "name": "Sony Noise Cancelling Headphones",
+      "price": 300,
+      "image": "https://www.sony.com.mx/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+    },
+    {
+      "id": "7",
+      "name": "Canon EOS R5 Camera",
+      "price": 3500,
+      "image": "https://i1.adis.ws/i/canon/eos-r5_martin_bissig_lifestyle_05_c629aad3c2154f34b3d7d7ba5a509196?$70-30-header-4by3-dt-jpg$"
+    },
+    {
+      "id": "8",
+      "name": "DJI Mavic Air 2 Drone",
+      "price": 800,
+      "image": "https://tienda.godron.mx/wp-content/uploads/2020/07/6f491260a5143b39941221b394816aa4@770462.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Amazon Echo Show",
+      "price": 150,
+      "image": "https://cdn1.coppel.com/images/catalog/pm/2179633-1.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Microsoft Surface Laptop",
+      "price": 1200,
+      "image": "https://m.media-amazon.com/images/I/61UGE9cZVlL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "f4dc",
+      "name": "Pantalla TCL Smart",
+      "price": 5000,
+      "image": "https://www.officedepot.com.mx/medias/100078681.jpg-1200ftw?context=bWFzdGVyfHJvb3R8NTcyMzk4fGltYWdlL2pwZWd8YUdWakwyaGhNeTh4TURjeU5UTTVOemc0T1RBMU5DOHhNREF3TnpnMk9ERXVhbkJuWHpFeU1EQm1kSGN8NmZlMzA4NThjNGIwOTc3OTU1MTEyYTdkNzZlMTgyMWI0NjA2ZDIxYWMxNTc2ZTNmOWJiOTgwOWY2NGFmOTQ3YQ"
+    },
+    {
+      "id": "787d",
+      "name": "Samsung Galaxy S21 Ultra",
+      "price": 1990,
+      "image": "https://m.media-amazon.com/images/I/61dlAm9BpqL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "d201",
+      "name": "Apple MacBook Pro (2021)",
+      "price": 2999,
+      "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111902_mbp14-silver2.png"
+    },
+    {
+      "id": "b9fb",
+      "name": "MacBook Pro",
+      "price": 1500,
+      "image": "https://m.media-amazon.com/images/I/71an9eiBxpL._SX679_.jpg"
+    },
+    {
+      "id": "2e14",
+      "name": "Dell XPS 13",
+      "price": 1300,
+      "image": "https://m.media-amazon.com/images/I/71pC69I3lzL._SX679_.jpg"
+    },
+    {
+      "id": "90dc",
+      "name": "Bose QuietComfort 35 II",
+      "price": 300,
+      "image": "https://m.media-amazon.com/images/I/81+jNVOUsJL._SX679_.jpg"
+    },
+    {
+      "id": "3e57",
+      "name": "Amazon Echo Show 8",
+      "price": 130,
+      "image": "https://m.media-amazon.com/images/I/71yEX4ugtJL._SX679_.jpg"
+    },
+    {
+      "id": "e074",
+      "name": "Samsung 55\\\" QLED 4K Smart TV",
+      "price": 1200,
+      "image": "https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/qled-4k-tvs/qn85q80cafxza/QN55Q80CAFXZA_003_L-Perspective_Titan.jpg?$product-details-jpg$"
+    }
+  ]
+}
